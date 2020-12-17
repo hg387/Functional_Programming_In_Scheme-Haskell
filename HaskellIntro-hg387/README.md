@@ -345,33 +345,3 @@ Please note the following constraints:
 
 In essence **use sets, not lists** to solve this problem.
 
-Problem 4: Homework Statistics (5 point)
-----------------------------------------
-
-How long did spend on each problem? Please tell us in your
-`README.md`{.language-plaintext .highlighter-rouge}.
-
-You may enter time using any format described
-[here](https://github.com/wroberts/pytimeparse). Please enter times
-using the requested format, as that will make it easy for us to
-automatically collect.
-
-We are happy to read additional comments you have, but **do not** put
-any comments on the same line as the time report. Please **do not**
-otherwise edit, move, or reformat the lines reserved for time statistics
-reports.
-
-Here is the reporting format you should use:
-
-``` {.highlight}
-Problem 1: 5m
-
-Here's a description of my experience solving this problem.
-```
-
-If you did not attempt one or more problems, you can still receive full
-marks by telling us you spent 0 minutes on these problems. You will not
-receive points for this problem if you leave **any** of the time reports
-blank.
-
-Copyright © Geoffrey Mainland/Drexel University 2015–2021
