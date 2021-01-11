@@ -1,0 +1,7 @@
+*~
+*.exe
+*.o
+.DS_Store
+a.out
+hello
+main
