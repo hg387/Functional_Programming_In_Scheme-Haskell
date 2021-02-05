@@ -1,0 +1,1 @@
+("7.1" ("6807abf803c8ef7d9adf282378688250f8ea9848" . "41eb487ccea999692b78375e7772c9d686537a5d") #"H:\\Winter2021\\CS360\\hw2-hg387\\more-scheme.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (collects #"rackunit" #"text-ui.rkt"))
