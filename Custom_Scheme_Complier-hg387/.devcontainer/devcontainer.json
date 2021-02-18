@@ -1,0 +1,11 @@
+{
+	"name": "Racket 7.9",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	},
+
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	}
+}
